@@ -1,5 +1,5 @@
 In this project we will be creating an encryption and decryption
-logic within a module that access two packages.
+logic within a module that access two packages, the decrypt and encrypt package.When we are done we will publish this module.
 The encrpytion algorithm basically adds 3 to each character as a
 key code, e.g A = D, M = P etc.
 module: cryptit
